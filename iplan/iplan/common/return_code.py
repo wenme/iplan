@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+
+# Http Error
+PAGE_NOT_FOUND = 404
+INTERNAL_ERROR = 500
+
+# Exception
+NORMAL_RESPONSE = 0
+USER_NOT_EXIST = -1
+USER_ALREADY_EXIST = -2
+PARAM_ERROR = -3
+INVALID_LOGIN = -4
+

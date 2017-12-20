@@ -1,0 +1,5 @@
+sudo apt-get install nginx supervisor uwsgi uwsgi-plugin-python
+pip install oss2
+apt-get install python-dev libmysqlclient-dev
+pip install MySQL-python
+wget http://downloads.sourceforge.net/project/pyexcelerator/pyExcelerator/0.6.4.1/pyexcelerator-0.6.4.1.zip
